@@ -4,7 +4,7 @@ Date: 1-24-24
 This program write a message to the screen
 */
 
-public class HelloWorld {
+public class HelloWorldMethod {
     public static void main(String[] args) {
         
         printMessage();    
